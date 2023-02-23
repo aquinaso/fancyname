@@ -1,2 +1,18 @@
-# fancyname
-멋진 이름으로 팀 저장소 만들기
+---
+Welcome to SeSAC **ilZo** Repository!
+---
+
+There are no guidelines yet.
+
+Here's an example of README.md
+
+- **[GitHub](https://github.com/, '깃허브')**
+  - **[ilZo Repository](https://github.com/aquinaso/fancyname/, '저장소')
+  
+  
+:hamster:
+```Python
+print("hello-ilZo")
+
+> hello-ilZo
+```
